@@ -1,4 +1,5 @@
-//1 task
+//1 task 
+
 // let name = prompt('Как ваше имя?')
 // alert('Привет ' +  name)
 
@@ -13,7 +14,7 @@
 // alert( side * 4)
 
 
-// //4 task
+// //4 task 
 // PI = 3.14
 // let radius = prompt('Введите радиус окружности')
 // function (S)
